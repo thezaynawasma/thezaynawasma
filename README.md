@@ -1,17 +1,58 @@
-# Hey there! 👋
+<h1 align="left">Hey 👋, I'm Zayn</h1>
 
-I'm Zayna, a Computer Engineering grad (AI) finishing my MSc in Computational Data Science at Khalifa University, Abu Dhabi.
+```python
+class Zayna:
+    def __init__(self):
+        self.role = "Computer Engineering (AI) Graduate"
+        self.current = "MSc Computational Data Science @ Khalifa University"
+        self.interests = [
+            "AI systems",
+            "machine learning",
+            "data pipelines",
+            "real-world problem solving"
+        ]
+        self.stack = ["Python", "SQL", "Power BI"]
+        self.currently_learning = [
+            "machine learning (properly)",
+            "data-driven system design"
+        ]
 
-I build things with data and AI — and I'm working my way toward product management.
+    def build(self):
+        return "turning ideas into small, working systems"
+```
 
-If an idea crosses my mind, chances are I'll vibe-code it and ship it.
+---
 
-My main stack is Python, SQL, and Power BI. I also dabble in React and the OpenAI API when building side projects.
-
-**Fun facts:**
-- I read a lot — if I'm not coding, I'm probably reading
-- I organize everything obsessively (Paper planners >>>)
-- Currently learning: how great products are built, one teardown at a time
+### ⚙️ Tech Stack
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
