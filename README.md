@@ -64,4 +64,4 @@ class Zayna:
 
 ---
 
-📍 Abu Dhabi, UAE &nbsp;·&nbsp; 📬 [Email](mailto:name@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/user-name/)
+📍 Abu Dhabi, UAE &nbsp;·&nbsp; 📬 [Email](mailto:zaynawkhaja@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/zayna-wasma/)
