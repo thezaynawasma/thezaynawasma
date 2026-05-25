@@ -3,22 +3,23 @@
 ```python
 class Zayna:
     def __init__(self):
-        self.role = "Computer Engineering (AI) Graduate"
+        self.role = "Computer Engineering Graduate"
         self.current = "MSc Computational Data Science @ Khalifa University"
         self.interests = [
-            "AI systems",
-            "machine learning",
-            "data pipelines",
+            "backend development",
+            "cloud technologies",
+            "scalable systems",
             "real-world problem solving"
         ]
-        self.stack = ["Python", "SQL", "Power BI"]
+        self.stack = ["Python", "SQL", "FastAPI", "Docker"]
         self.currently_learning = [
-            "machine learning (properly)",
-            "data-driven system design"
+            "backend engineering",
+            "cloud computing",
+            "system design"
         ]
 
     def build(self):
-        return "turning ideas into small, working systems"
+        return "turning requirements into practical, scalable systems"
 ```
 
 ---
